@@ -1,0 +1,170 @@
+{
+  "nav": {
+    "services": "Dienstleistungen",
+    "expertise": "Expertise",
+    "process": "Ablauf",
+    "testimonials": "Bewertungen",
+    "contact": "Kontakt aufnehmen"
+  },
+  "hero": {
+    "label": "Buchhalterische Betreuung",
+    "title": "Professionelle buchhalterische Betreuung in Deutschland ",
+    "description": "Umfassende Betreuung für Privatpersonen und Unternehmen.\nWir helfen Ihnen, sich sicher im deutschen System zurechtzufinden, Dokumente korrekt zu erstellen, Prozesse aufzubauen und Ihre Tätigkeit weiterzuentwickeln.",
+    "btn_consultation": "Beratung erhalten",
+    "btn_services": "Unsere Dienstleistungen"
+  },
+  "stats": {
+    "years_number": "5+",
+    "years_label": "Jahre Erfahrung",
+    "cases_number": "250+",
+    "cases_label": "Erfolgreiche Fälle",
+    "decisions_number": "98%",
+    "decisions_label": "Positive Entscheidungen",
+    "clients_number": "100+",
+    "clients_label": "Zufriedene Kunden"
+  },
+  "services": {
+    "label": "Unsere Dienstleistungen",
+    "title": "Buchhalterische Betreuung und finanzielle Unterstützung in den wichtigsten Bereichen",
+    "description": "Wir sind ein Team von Beratern und Spezialisten im Bereich der buchhalterischen Betreuung, Unternehmensorganisation und Zusammenarbeit mit staatlichen Institutionen in Deutschland.",
+    "service1_title": "Buchhalterische Betreuung",
+    "service1_text": "Wir übernehmen ein breites Spektrum an buchhalterischen und administrativen Aufgaben, die Beratern in Deutschland erlaubt sind.",
+    "service2_title": "Unterstützung von Kunden, die beim Jobcenter gemeldet sind",
+    "service2_text": "Wir arbeiten mit offiziellen Partnern zusammen, die berechtigt sind, Coachingprogramme durchzuführen und Kunden zu begleiten, die im Rahmen der Jobcenter-Programme eine Selbstständigkeit aufnehmen möchten.",
+    "service3_title": "Administrative Unterstützung",
+    "service3_text": "Wir leisten Unterstützung nicht nur im Jobcenter, bei der Krankenkasse oder dem Finanzamt. Unsere Betreuung umfasst ein breites Spektrum staatlicher und nichtstaatlicher Institutionen.",
+    "service4_title": "Unternehmensgründung in Deutschland",
+    "service4_text": "Wir begleiten den gesamten Prozess der Aufnahme jeder Art von Tätigkeit – von der Dokumentenvorbereitung bis zur Erteilung der Steuernummer und allen ersten Registrierungen."
+  },
+  "servicePages": {
+    "contact_button": "Kontaktieren Sie uns",
+    "back_button": "Zurück zur Startseite",
+    "service1": {
+      "title": "Buchhalterische Betreuung",
+      "description": "Ein vollständiges Spektrum an Buchhaltungsdienstleistungen für Ihr Unternehmen in Deutschland. Wir übernehmen alle Routineaufgaben, damit Sie sich auf die Entwicklung Ihres Geschäfts konzentrieren können.",
+      "points": [
+        "Führung und Vorbereitung der Unterlagen für EÜR",
+        "Ordnung von Rechnungen, Ausgaben und Primärdokumenten",
+        "Strukturierung der Buchhaltung für Kleinunternehmer und Unternehmer mit Umsatzsteuer",
+        "Einrichtung der Arbeit in Elster, Einreichung von Formularen und Begleitung",
+        "Vorbereitung von Unterlagen und Materialien für steuerliche Prüfungen",
+        "Kommunikations- und administrative Unterstützung im Kontakt mit staatlichen Behörden"
+      ]
+    },
+    "service2": {
+      "title": "Unterstützung für Jobcenter-Kunden",
+      "description": "Wir helfen Jobcenter-Kunden, erfolgreich ein eigenes Unternehmen zu gründen – mit vollständiger Begleitung in allen Phasen.",
+      "points": [
+        "Erstellung des vollständigen Dokumentenpakets zur Beantragung von Einstiegsgeld",
+        "Ausarbeitung des Businessplans, des Finanzteils und der Begründung",
+        "Begleitung bei der Einreichung der Unterlagen und Kommunikation mit dem Jobcenter",
+        "Koordination des Prozesses gemeinsam mit unseren Partnern",
+        "Begleitung des Kunden bis zur vollständigen Registrierung der Selbstständigkeit und Genehmigung des Programms",
+        "Vollständige Begleitung für den Kunden kostenlos, da die Kosten vom Jobcenter übernommen werden"
+      ]
+    },
+    "service3": {
+      "title": "Administrative Unterstützung",
+      "description": "Umfassende Hilfe bei der Arbeit mit staatlichen und privaten Organisationen in Deutschland. Unsere Begleitung umfasst ein breites Spektrum an Einrichtungen und Organisationen, darunter:",
+      "points": [
+        "Stadt- und Kreisbehörden",
+        "Ausländerbehörde und andere Migrationsstrukturen",
+        "Ärztliche und soziale Dienste",
+        "Versicherungs- und Rentenkassen, Banken und Finanzinstitutionen",
+        "Notare, Anwälte, Beratungszentren",
+        "Schulen, Kindergeldstelle, Familienkasse"
+      ]
+    },
+    "service4": {
+      "title": "Unternehmensregistrierung in Deutschland",
+      "description": "Von der Idee bis zum ersten Vertrag – vollständige Begleitung des Registrierungs- und Startprozesses Ihres Unternehmens.",
+      "points": [
+        "Analyse Ihrer Situation und Auswahl der richtigen Tätigkeitsform",
+        "Festlegung aller notwendigen Anforderungen für Ihre Art der Tätigkeit",
+        "Vorbereitung der Unterlagen und Registrierung von Gewerbe/Freiberufler/GmbH/UG (gemeinsam mit notariellen Partnern)",
+        "Korrekte Formulierung der Tätigkeitsarten",
+        "Beratung zu Kleinunternehmerregelung oder Umsatzsteuersystem",
+        "Begleitung beim Erhalt der Steuernummer, Einreichung der Anmeldung zur steuerlichen Erfassung, Erhalt der USt-IdNr. (bei Bedarf)"
+      ]
+    }
+  },
+"expertise": {
+    "title": "Expertise, auf die Sie sich verlassen können",
+    "text1": "Unser Team besteht aus hochqualifizierten Buchhaltern mit langjähriger Erfahrung im deutschen System.\nWir bieten umfassende Lösungen, die auf tiefem Gesetzesverständnis und einem individuellen Ansatz basieren.",
+    "text2": "Wir verstehen die Komplexität des deutschen Rechts und die Besonderheiten der Arbeit mit Kunden, was es uns ermöglicht, Ihre Interessen effektiv zu schützen.",
+    "feature1": "Lizenzierte Buchhalter",
+    "feature2": "Fließende Deutsch- und Russischkenntnisse",
+    "feature3": "Erfahrung mit internationalen Fällen",
+    "feature4": "Transparente Preisgestaltung",
+    "feature5": "Vertraulichkeit auf allen Ebenen",
+    "feature6": "Persönlicher Manager für jeden Kunden",
+    "feature7": "24/7-Erreichbarkeit in dringenden Fällen"
+  },
+  "process": {
+    "label": "Arbeitsprozess",
+    "title": "Ein einfacher und transparenter Ansatz zur Lösung Ihrer Aufgaben",
+    "step1_title": "Beratung",
+    "step1_text": "Erstgespräch oder Telefonat zur Besprechung Ihrer Situation und zur Festlegung der optimalen Strategie.",
+    "step2_title": "Analyse",
+    "step2_text": "Gründliche Prüfung der Dokumente, Bewertung rechtlicher Risiken und Möglichkeiten.",
+    "step3_title": "Umsetzung",
+    "step3_text": "Umsetzung der vereinbarten Strategie, Dokumentenvorbereitung, Interessenvertretung.",
+    "step4_title": "Ergebnis",
+    "step4_text": "Erreichung der gesetzten Ziele, kontinuierliche Unterstützung und Begleitung auf allen Etappen."
+  },
+  "testimonials": {
+    "label": "Bewertungen",
+    "title": "Was unsere Kunden sagen",
+    "testimonial1_text": "„Professioneller Ansatz in allen Phasen. Sie halfen bei der Blue Card und der Familienzusammenführung. Der gesamte Prozess verlief dank klarer Koordination reibungslos.“",
+    "testimonial1_name": "Maria Sokolova",
+    "testimonial1_position": "Unternehmerin",
+    "testimonial2_text": "„Sie halfen bei der Gründung einer GmbH und führten eine vollständige rechtliche Prüfung durch. Alles wurde verständlich erklärt, ohne versteckte Kosten. Sehr zuverlässige Partner.“",
+    "testimonial2_name": "Dmitry Petrov",
+    "testimonial2_position": "Unternehmensinhaber"
+  },
+  "contact": {
+    "label": "Kontakt",
+    "title": "Kontaktieren Sie uns für eine Beratung",
+    "info_title": "Kontaktinformationen",
+    "hours_title": "Öffnungszeiten",
+    "hours_text": "Montag – Freitag: 09:00 – 17:00 <br> Samstag: nach Vereinbarung <br> Sonntag: geschlossen",
+    "phone_title": "Telefon",
+    "email_title": "Email",
+    "address_title": "Adresse",
+    "address_text": "Wallstraße 9,<br>10179 Berlin, Deutschland",
+    "form_success": "Vielen Dank! Ihre Anfrage wurde erfolgreich gesendet.",
+    "form_firstname": "Vorname",
+    "form_lastname": "Nachname",
+    "form_email": "Email",
+    "form_phone": "Telefon",
+    "form_service": "Rechtsbereich",
+    "form_service_placeholder": "Dienstleistung auswählen",
+    "form_service_option1": "Buchhalterische Betreuung",
+    "form_service_option2": "Unterstützung von Kunden, die beim Jobcenter gemeldet sind",
+    "form_service_option3": "Administrative Unterstützung",
+    "form_service_option4": "Unternehmensgründung in Deutschland",
+    "form_service_option5": "Sonstiges",
+    "form_message": "Beschreibung Ihrer Anfrage",
+    "form_submit": "Anfrage senden"
+  },
+  "footer": {
+    "about_title": "DIIA Consulting",
+    "about_text": "Eine professionelle Wirtschaftsprüfungsgesellschaft, die sich auf umfassende Rechtsdienstleistungen für Privatpersonen und juristische Personen in Deutschland spezialisiert hat.",
+    "services_title": "Dienstleistungen",
+    "service1": "Buchhalterische Betreuung",
+    "service2": "Unterstützung von Kunden, die beim Jobcenter gemeldet sind",
+    "service3": "Administrative Unterstützung",
+    "service4": "Unternehmensgründung in Deutschland",
+    "company_title": "Unternehmen",
+    "company_about": "Über uns",
+    "company_testimonials": "Bewertungen",
+    "company_process": "Wie wir arbeiten",
+    "company_contact": "Kontakt",
+    "legal_title": "Rechtliche Informationen",
+    "legal_impressum": "Impressum",
+    "legal_datenschutz": "Datenschutz",
+    "legal_agb": "AGB",
+    "legal_disclaimer": "Disclaimer",
+    "copyright": "© 2025 DIIA Consulting Berlin. Alle Rechte vorbehalten."
+  }
+}
